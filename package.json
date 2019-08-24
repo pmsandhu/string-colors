@@ -1,0 +1,8 @@
+{
+  "name": "string-colors",
+  "version": "1.0.0",
+  "description": "chainable string colors to output to the console example: 'string'.bg_blue.white.underline",
+  "main": "index.js",
+  "author": "Patrice Sandhu",
+  "license": "ISC"
+}
